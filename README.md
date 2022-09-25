@@ -40,4 +40,10 @@ A seguir será apresentada a aplicação em funcionamento
 
 <img src="https://github.com/IsraelAugusto0110/Students-Project/blob/master/doc/Delete.gif" style="float: left; margin-right: 10px;" width="800" />
 
+### Instruções de uso
+
+- Abrir o terminal de comando e clonar o repositorio com : "git clone https://github.com/IsraelAugusto0110/Students-Project.git"
+- Dentro do diretorio  react-frontend executar : "npm install" para instalar os modulos necessários do frontend
+- Usando a IDE de sua preferencia, iniciar primeiro a parte Backend e depois o Frontend
+
 
